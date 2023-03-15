@@ -42,7 +42,7 @@ def main():
     best_prec1 = 1e6
     
     args = parser.parse_args()
-    args.lambd = 1
+    args.lambd = 1.0 # balance segmentation loss and regression loss
     args.lr = 1e-5
     args.batch_size    = 1
     args.momentum      = 0.95
@@ -79,15 +79,15 @@ def main():
     print("train set size:%d"%(len(train_list)))
     print("val set size:%d"%(len(val_list)))
     
+    # model define
     model = CSRNetWithSeg(deformable=False, BN=False, 
                           with_seg = True, shallow=False)
 
     # size of feature map = 1/stride * image_size 
     args.stride = model.stride 
     model = model.cuda()
-    criterion = nn.MSELoss(size_average=False).cuda()
-    #criterion = nn.L1Loss(size_average=False).cuda()
-    
+    regloss = nn.MSELoss(size_average=False).cuda()
+    segloss = nn.BCELoss(size_average=False).cuda()
     optimizer = torch.optim.SGD(model.parameters(), args.lr,
                                 momentum=args.momentum,
                                 weight_decay=args.decay)
@@ -106,8 +106,8 @@ def main():
             print("=> no checkpoint found at '{}'".format(args.pre))
     for epoch in range(args.start_epoch, args.epochs):
         adjust_learning_rate(optimizer, epoch)
-        train(train_list, model, criterion, optimizer, epoch)
-        prec1 = validate(val_list, model, criterion)
+        train(train_list, model, regloss, segloss, optimizer, epoch)
+        prec1 = validate(val_list, model, regloss)
         is_best = prec1 < best_prec1
         best_prec1 = min(prec1, best_prec1)
 
@@ -125,13 +125,11 @@ def main():
         }, is_best,backupdir)
     log_file.close()
 
-def train(train_list, model, criterion, optimizer, epoch):
-    
+def train(train_list, model, regloss, segloss, optimizer, epoch):
     losses = AverageMeter()
     seg_losses = AverageMeter()
     batch_time = AverageMeter()
     data_time = AverageMeter()
-    
     train_loader = torch.utils.data.DataLoader(
         dataset.listDataset(train_list,
                        shuffle=True,
@@ -157,30 +155,25 @@ def train(train_list, model, criterion, optimizer, epoch):
     for i,(img, target,_)in enumerate(train_loader):
         data_time.update(time.time() - end)
         optimizer.zero_grad()
-
         img = img.cuda()
         img = Variable(img)
-
         if model.with_seg:
             output, seg_out = model(img)
             bin_seg_out = torch.where(seg_out > 0.5,torch.full_like(seg_out, 1),torch.full_like(seg_out, 0))
             output = output*bin_seg_out
         else:
             output = model(img)
-
         target = target.type(torch.FloatTensor).cuda()
         target = Variable(target)
-
-        loss = criterion(output, target) #target shape is [1,batch,w,h]
+        loss = regloss(output, target) #target shape is [1,batch,w,h]
         
         # update moving average
         losses.update(loss.item(), img.size(0))
         
         if model.with_seg:
-            seg_criterion = nn.BCELoss(size_average=False).cuda()
             front_target = torch.where(target > 1e-6, torch.full_like(target, 1), torch.full_like(target, 0))
             seg_target = Variable(front_target.type(torch.FloatTensor).cuda())
-            seg_loss = seg_criterion(seg_out, seg_target)
+            seg_loss = segloss(seg_out, seg_target)
             loss += args.lambd * seg_loss
             seg_losses.update(seg_loss.item(), img.size(0))
         
@@ -211,7 +204,7 @@ def train(train_list, model, criterion, optimizer, epoch):
                     data_time=data_time, loss=losses))
 
     
-def validate(val_list, model, criterion):
+def validate(val_list, model):
     print ('begin val')
     test_loader = torch.utils.data.DataLoader(
     dataset.listDataset(val_list,
@@ -221,9 +214,7 @@ def validate(val_list, model, criterion):
                                      std=[0.229, 0.224, 0.225]),
                    ]),  train=False),
     batch_size=1)    
-    
     model.eval()
-    
     mae = 0
     hit_rate_sum = 0
     for i,(img, target,_) in enumerate(test_loader):
