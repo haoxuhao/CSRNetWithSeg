@@ -37,13 +37,11 @@ parser.add_argument('task',metavar='TASK', type=str,
 backup_dir_root = "./backup"
 
 def main():
-    
     global args,best_prec1
     global log_file
     best_prec1 = 1e6
     
     args = parser.parse_args()
-
     args.lambd = 1
     args.lr = 1e-5
     args.batch_size    = 1
@@ -57,6 +55,9 @@ def main():
     args.seed = time.time()
     args.print_freq = 5
     args.loss_mult = 1e1
+
+    os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
+    torch.cuda.manual_seed(args.seed)
 
     backupdir = os.path.join(backup_dir_root, args.task)
     if not os.path.exists(backupdir):
@@ -77,13 +78,12 @@ def main():
     print("usage gpu:%s"%args.gpu)
     print("train set size:%d"%(len(train_list)))
     print("val set size:%d"%(len(val_list)))
-    os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
-    torch.cuda.manual_seed(args.seed)
+    
     model = CSRNetWithSeg(deformable=False, BN=False, 
                           with_seg = True, shallow=False)
 
-    args.stride = model.stride
-
+    # size of feature map = 1/stride * image_size 
+    args.stride = model.stride 
     model = model.cuda()
     criterion = nn.MSELoss(size_average=False).cuda()
     #criterion = nn.L1Loss(size_average=False).cuda()
