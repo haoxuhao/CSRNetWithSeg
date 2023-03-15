@@ -1,0 +1,158 @@
+
+'''
+对knn生成密度图的方式进行改进，加入最大最小模糊核小的bound
+'''
+
+#use gt_count from density map
+#shallow network
+model:backup/SHA_bound_label/best.pth.tar
+test set: ./dataset/SH_partA_test.json
+================
+mae: 65.9400
+mae rate: 0.1768
+mse: 101.6603
+average inference time: 0.0010
+
+model:models/partAmodel_best.pth.tar
+test set:./dataset/SH_partA_test.json
+================
+mae: 65.9664
+mae rate: 0.1618
+mse: 104.9930
+average inference time: 0.0012
+
+model:backup/SHA_bound_label/best.pth.tar
+test set:./dataset/SH_partA_test.json
+================
+mae: 65.8236
+mae rate: 0.1766
+mse: 101.4602
+average inference time: 0.0011
+
+'''use gt_count from mat'''
+
+#shallow network
+model:backup/SHA_bound_label/best.pth.tar
+test set:./dataset/SH_partA_test.json
+================
+mae: 66.9024
+mae rate: 0.1785
+mse: 102.6593
+average inference time: 0.0010
+
+model:backup/SHA_bound_label_csrnet/best.pth.tar
+test set:./dataset/SH_partA_test.json
+================
+mae: 68.5843
+mae rate: 0.1875
+mse: 102.6384
+average inference time: 0.0017
+
+model:backup/SHA_bound_label_csrnet/best.pth.tar
+test set:./dataset/SH_partA_test.json
+================
+mae: 67.3311
+mae rate: 0.1830
+mse: 100.0463
+average inference time: 0.0014
+
+作者提供的模型partA上的模型进行的测试
+model:models/partAmodel_best.pth.tar
+test set:./dataset/SH_partA_test.json
+================
+mae: 66.5822
+mae rate: 0.1627
+mse: 106.0681
+average inference time: 0.0014
+
+以上是利用自适应高斯核大小 + bound的方式生成gt的方法测试，测试中可以看到mse指标提升比较明显，提升了两个点
+所以可以说明，这种方式使得学习更加的稳定了，这也可以从gt图可是化中看出。
+
+用了seg map的结果
+model:models/partBmodel_best.pth.tar
+test set:./dataset/SH_partB_test.json
+================
+mae: 9.7555
+mae rate: 0.0806
+mse: 15.6317
+average inference time: 0.0890
+
+model:models/partBmodel_best.pth.tar
+test set:./dataset/SH_partB_test.json
+================
+mae: 9.6996
+mae rate: 0.0798
+mse: 15.5847
+
+model:models/partBmodel_best.pth.tar
+test set:./dataset/SH_partB_test.json
+================
+mae: 9.6537
+mae rate: 0.0792
+mse: 15.5465
+average inference time: 0.0895
+
+
+test set:./dataset/SH_partA_test.json
+================
+mae: 66.0642
+mae rate: 0.1590
+mse: 105.6990
+average inference time: 0.0627
+
+没有用seg map的结果
+model:models/partBmodel_best.pth.tar
+test set:./dataset/SH_partB_test.json
+================
+mae: 9.6860
+mae rate: 0.0837
+mse: 15.4763
+average inference time: 0.0877
+
+#semi gan + count loss + shallow_csrnet
+model:backup/semi_gan_test_multi_task/G_best.pth.tar
+test set:./dataset/SH_partB_test.json
+================
+mae: 9.6560
+mae rate: 0.0834
+mse: 14.8286
+average inference time: 0.0560
+
+利用seg map的结果
+model:./backup/SHB_csrnet_with_seg_whole/best.pth.tar
+test set:./dataset/SH_partB_test.json
+================
+mae: 9.6879
+mae rate: 0.0779
+mse: 15.6939
+average inference time: 0.0943
+
+model:./backup/SHB_csrnet_with_seg_whole/best.pth.tar
+test set:./dataset/SH_partB_test.json
+================
+mae: 9.6701
+mae rate: 0.0779
+mse: 15.6595
+average inference time: 0.0945
+
+与最好作者给的最好结果对比
+
+model:models/partBmodel_best.pth.tar
+test set:./dataset/SH_partB_test.json
+================
+mae: 9.6537
+mae rate: 0.0792
+mse: 15.5465
+average inference time: 0.0895
+
+==================
+PSNR: 25.39
+mae: 9.6860
+mae rate: 0.0837
+mse: 15.4763
+
+==================
+PSNR: 25.51
+mae: 9.6863
+mae rate: 0.0779
+mse: 15.6908

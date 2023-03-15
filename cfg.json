@@ -1,0 +1,19 @@
+[
+	{
+		"train":{
+			"batch_size":1,
+			"original_lr":1e-7,
+			"lr":1e-7,
+			"lambd":0.0,
+			"epochs":600,
+			"steps":[10,15,25,40],
+			"scales":[1,1,1,1],
+			"momentum":0.95,
+			"decay":5e-4,
+			"start_epoch":0,
+			"workers":8,
+			"print_freq":30
+		}
+
+	}
+]

@@ -1,0 +1,1094 @@
+[
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_136.mat",
+        "gt_count": 102.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_136.jpg",
+        "pred_count": 91.33353424072266
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_15.mat",
+        "gt_count": 341.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_15.jpg",
+        "pred_count": 293.54547119140625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_158.mat",
+        "gt_count": 308.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_158.jpg",
+        "pred_count": 447.6680603027344
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_105.mat",
+        "gt_count": 265.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_105.jpg",
+        "pred_count": 233.38092041015625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_86.mat",
+        "gt_count": 579.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_86.jpg",
+        "pred_count": 521.951904296875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_74.mat",
+        "gt_count": 865.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_74.jpg",
+        "pred_count": 969.2534790039062
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_73.mat",
+        "gt_count": 153.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_73.jpg",
+        "pred_count": 174.5732879638672
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_155.mat",
+        "gt_count": 165.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_155.jpg",
+        "pred_count": 237.8118438720703
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_180.mat",
+        "gt_count": 398.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_180.jpg",
+        "pred_count": 382.889892578125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_103.mat",
+        "gt_count": 431.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_103.jpg",
+        "pred_count": 588.1815795898438
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_121.mat",
+        "gt_count": 1210.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_121.jpg",
+        "pred_count": 1394.2935791015625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_143.mat",
+        "gt_count": 357.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_143.jpg",
+        "pred_count": 234.40240478515625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_179.mat",
+        "gt_count": 400.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_179.jpg",
+        "pred_count": 311.9897766113281
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_90.mat",
+        "gt_count": 2256.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_90.jpg",
+        "pred_count": 1985.6365966796875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_3.mat",
+        "gt_count": 302.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_3.jpg",
+        "pred_count": 456.3622741699219
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_41.mat",
+        "gt_count": 250.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_41.jpg",
+        "pred_count": 167.53651428222656
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_5.mat",
+        "gt_count": 819.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_5.jpg",
+        "pred_count": 684.792236328125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_132.mat",
+        "gt_count": 375.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_132.jpg",
+        "pred_count": 360.3977966308594
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_141.mat",
+        "gt_count": 475.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_141.jpg",
+        "pred_count": 441.7920227050781
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_53.mat",
+        "gt_count": 176.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_53.jpg",
+        "pred_count": 187.02902221679688
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_98.mat",
+        "gt_count": 153.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_98.jpg",
+        "pred_count": 148.3079376220703
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_173.mat",
+        "gt_count": 483.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_173.jpg",
+        "pred_count": 688.912109375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_94.mat",
+        "gt_count": 69.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_94.jpg",
+        "pred_count": 53.1002311706543
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_88.mat",
+        "gt_count": 86.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_88.jpg",
+        "pred_count": 98.06145477294922
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_99.mat",
+        "gt_count": 242.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_99.jpg",
+        "pred_count": 132.16590881347656
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_45.mat",
+        "gt_count": 139.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_45.jpg",
+        "pred_count": 112.05582427978516
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_68.mat",
+        "gt_count": 212.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_68.jpg",
+        "pred_count": 198.67294311523438
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_75.mat",
+        "gt_count": 666.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_75.jpg",
+        "pred_count": 608.2433471679688
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_72.mat",
+        "gt_count": 589.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_72.jpg",
+        "pred_count": 693.04345703125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_67.mat",
+        "gt_count": 192.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_67.jpg",
+        "pred_count": 257.51055908203125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_16.mat",
+        "gt_count": 417.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_16.jpg",
+        "pred_count": 422.1083984375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_148.mat",
+        "gt_count": 208.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_148.jpg",
+        "pred_count": 166.658447265625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_26.mat",
+        "gt_count": 499.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_26.jpg",
+        "pred_count": 311.24420166015625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_138.mat",
+        "gt_count": 292.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_138.jpg",
+        "pred_count": 237.17637634277344
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_140.mat",
+        "gt_count": 93.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_140.jpg",
+        "pred_count": 95.63506317138672
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_25.mat",
+        "gt_count": 243.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_25.jpg",
+        "pred_count": 190.93109130859375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_104.mat",
+        "gt_count": 1175.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_104.jpg",
+        "pred_count": 1193.33740234375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_134.mat",
+        "gt_count": 165.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_134.jpg",
+        "pred_count": 110.15503692626953
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_54.mat",
+        "gt_count": 529.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_54.jpg",
+        "pred_count": 838.4826049804688
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_93.mat",
+        "gt_count": 255.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_93.jpg",
+        "pred_count": 219.99285888671875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_7.mat",
+        "gt_count": 568.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_7.jpg",
+        "pred_count": 587.3297119140625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_79.mat",
+        "gt_count": 186.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_79.jpg",
+        "pred_count": 152.0615692138672
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_66.mat",
+        "gt_count": 823.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_66.jpg",
+        "pred_count": 917.5093383789062
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_167.mat",
+        "gt_count": 112.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_167.jpg",
+        "pred_count": 104.64247131347656
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_9.mat",
+        "gt_count": 371.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_9.jpg",
+        "pred_count": 246.16493225097656
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_87.mat",
+        "gt_count": 417.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_87.jpg",
+        "pred_count": 433.61346435546875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_128.mat",
+        "gt_count": 419.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_128.jpg",
+        "pred_count": 330.0965270996094
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_89.mat",
+        "gt_count": 383.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_89.jpg",
+        "pred_count": 402.3642883300781
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_63.mat",
+        "gt_count": 1121.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_63.jpg",
+        "pred_count": 970.2066650390625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_47.mat",
+        "gt_count": 316.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_47.jpg",
+        "pred_count": 409.62396240234375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_39.mat",
+        "gt_count": 196.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_39.jpg",
+        "pred_count": 136.96041870117188
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_77.mat",
+        "gt_count": 207.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_77.jpg",
+        "pred_count": 197.0376434326172
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_43.mat",
+        "gt_count": 118.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_43.jpg",
+        "pred_count": 151.16244506835938
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_124.mat",
+        "gt_count": 226.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_124.jpg",
+        "pred_count": 194.72589111328125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_163.mat",
+        "gt_count": 162.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_163.jpg",
+        "pred_count": 253.13645935058594
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_130.mat",
+        "gt_count": 921.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_130.jpg",
+        "pred_count": 889.4559936523438
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_108.mat",
+        "gt_count": 182.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_108.jpg",
+        "pred_count": 174.33236694335938
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_114.mat",
+        "gt_count": 141.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_114.jpg",
+        "pred_count": 177.73684692382812
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_14.mat",
+        "gt_count": 762.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_14.jpg",
+        "pred_count": 634.8551635742188
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_131.mat",
+        "gt_count": 605.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_131.jpg",
+        "pred_count": 482.9917297363281
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_27.mat",
+        "gt_count": 760.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_27.jpg",
+        "pred_count": 901.9556884765625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_181.mat",
+        "gt_count": 216.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_181.jpg",
+        "pred_count": 204.8501434326172
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_60.mat",
+        "gt_count": 293.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_60.jpg",
+        "pred_count": 451.2303771972656
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_56.mat",
+        "gt_count": 349.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_56.jpg",
+        "pred_count": 293.3293151855469
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_157.mat",
+        "gt_count": 392.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_157.jpg",
+        "pred_count": 570.7699584960938
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_170.mat",
+        "gt_count": 672.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_170.jpg",
+        "pred_count": 705.8518676757812
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_152.mat",
+        "gt_count": 277.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_152.jpg",
+        "pred_count": 204.99594116210938
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_80.mat",
+        "gt_count": 157.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_80.jpg",
+        "pred_count": 134.39480590820312
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_154.mat",
+        "gt_count": 498.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_154.jpg",
+        "pred_count": 459.9419250488281
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_151.mat",
+        "gt_count": 254.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_151.jpg",
+        "pred_count": 185.01437377929688
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_71.mat",
+        "gt_count": 602.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_71.jpg",
+        "pred_count": 716.74072265625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_120.mat",
+        "gt_count": 133.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_120.jpg",
+        "pred_count": 166.6931610107422
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_35.mat",
+        "gt_count": 567.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_35.jpg",
+        "pred_count": 523.7196655273438
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_36.mat",
+        "gt_count": 1267.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_36.jpg",
+        "pred_count": 1189.31689453125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_106.mat",
+        "gt_count": 1232.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_106.jpg",
+        "pred_count": 1434.434814453125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_101.mat",
+        "gt_count": 211.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_101.jpg",
+        "pred_count": 377.4259948730469
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_70.mat",
+        "gt_count": 412.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_70.jpg",
+        "pred_count": 467.94940185546875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_160.mat",
+        "gt_count": 121.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_160.jpg",
+        "pred_count": 138.03858947753906
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_40.mat",
+        "gt_count": 236.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_40.jpg",
+        "pred_count": 292.9759826660156
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_144.mat",
+        "gt_count": 264.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_144.jpg",
+        "pred_count": 228.9500732421875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_76.mat",
+        "gt_count": 485.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_76.jpg",
+        "pred_count": 551.789794921875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_112.mat",
+        "gt_count": 256.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_112.jpg",
+        "pred_count": 383.49951171875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_30.mat",
+        "gt_count": 307.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_30.jpg",
+        "pred_count": 286.2339172363281
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_127.mat",
+        "gt_count": 986.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_127.jpg",
+        "pred_count": 760.179443359375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_164.mat",
+        "gt_count": 302.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_164.jpg",
+        "pred_count": 312.9952392578125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_168.mat",
+        "gt_count": 240.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_168.jpg",
+        "pred_count": 337.73333740234375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_50.mat",
+        "gt_count": 1006.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_50.jpg",
+        "pred_count": 910.3287963867188
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_113.mat",
+        "gt_count": 66.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_113.jpg",
+        "pred_count": 174.2102508544922
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_135.mat",
+        "gt_count": 72.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_135.jpg",
+        "pred_count": 53.20155715942383
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_176.mat",
+        "gt_count": 213.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_176.jpg",
+        "pred_count": 316.4923400878906
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_109.mat",
+        "gt_count": 381.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_109.jpg",
+        "pred_count": 349.6409912109375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_49.mat",
+        "gt_count": 514.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_49.jpg",
+        "pred_count": 530.5107421875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_146.mat",
+        "gt_count": 479.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_146.jpg",
+        "pred_count": 546.3609619140625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_42.mat",
+        "gt_count": 802.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_42.jpg",
+        "pred_count": 870.7698364257812
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_59.mat",
+        "gt_count": 468.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_59.jpg",
+        "pred_count": 457.4566650390625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_17.mat",
+        "gt_count": 1157.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_17.jpg",
+        "pred_count": 1119.4766845703125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_137.mat",
+        "gt_count": 491.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_137.jpg",
+        "pred_count": 462.761962890625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_116.mat",
+        "gt_count": 289.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_116.jpg",
+        "pred_count": 386.77410888671875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_92.mat",
+        "gt_count": 1366.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_92.jpg",
+        "pred_count": 1177.537109375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_4.mat",
+        "gt_count": 170.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_4.jpg",
+        "pred_count": 151.17971801757812
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_13.mat",
+        "gt_count": 584.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_13.jpg",
+        "pred_count": 654.025634765625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_37.mat",
+        "gt_count": 195.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_37.jpg",
+        "pred_count": 199.54940795898438
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_150.mat",
+        "gt_count": 1303.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_150.jpg",
+        "pred_count": 1115.02978515625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_107.mat",
+        "gt_count": 294.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_107.jpg",
+        "pred_count": 251.0011444091797
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_118.mat",
+        "gt_count": 241.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_118.jpg",
+        "pred_count": 289.7536315917969
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_111.mat",
+        "gt_count": 452.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_111.jpg",
+        "pred_count": 526.1506958007812
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_81.mat",
+        "gt_count": 356.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_81.jpg",
+        "pred_count": 395.7237243652344
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_117.mat",
+        "gt_count": 1603.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_117.jpg",
+        "pred_count": 1677.204833984375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_78.mat",
+        "gt_count": 271.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_78.jpg",
+        "pred_count": 262.0274658203125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_52.mat",
+        "gt_count": 135.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_52.jpg",
+        "pred_count": 117.27814483642578
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_2.mat",
+        "gt_count": 1111.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_2.jpg",
+        "pred_count": 1205.4713134765625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_64.mat",
+        "gt_count": 289.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_64.jpg",
+        "pred_count": 390.32574462890625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_84.mat",
+        "gt_count": 122.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_84.jpg",
+        "pred_count": 197.78248596191406
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_51.mat",
+        "gt_count": 297.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_51.jpg",
+        "pred_count": 314.5506591796875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_58.mat",
+        "gt_count": 198.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_58.jpg",
+        "pred_count": 175.5501708984375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_159.mat",
+        "gt_count": 199.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_159.jpg",
+        "pred_count": 231.07130432128906
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_33.mat",
+        "gt_count": 475.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_33.jpg",
+        "pred_count": 414.4278259277344
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_166.mat",
+        "gt_count": 126.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_166.jpg",
+        "pred_count": 168.20753479003906
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_171.mat",
+        "gt_count": 239.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_171.jpg",
+        "pred_count": 233.42556762695312
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_122.mat",
+        "gt_count": 1153.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_122.jpg",
+        "pred_count": 918.5183715820312
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_55.mat",
+        "gt_count": 149.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_55.jpg",
+        "pred_count": 141.24337768554688
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_102.mat",
+        "gt_count": 223.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_102.jpg",
+        "pred_count": 230.44175720214844
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_62.mat",
+        "gt_count": 337.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_62.jpg",
+        "pred_count": 279.2797546386719
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_12.mat",
+        "gt_count": 321.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_12.jpg",
+        "pred_count": 167.10498046875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_123.mat",
+        "gt_count": 115.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_123.jpg",
+        "pred_count": 119.71781158447266
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_6.mat",
+        "gt_count": 361.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_6.jpg",
+        "pred_count": 346.4576110839844
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_177.mat",
+        "gt_count": 363.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_177.jpg",
+        "pred_count": 396.1825866699219
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_145.mat",
+        "gt_count": 261.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_145.jpg",
+        "pred_count": 223.883056640625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_172.mat",
+        "gt_count": 1176.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_172.jpg",
+        "pred_count": 1108.7908935546875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_95.mat",
+        "gt_count": 190.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_95.jpg",
+        "pred_count": 136.98211669921875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_65.mat",
+        "gt_count": 215.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_65.jpg",
+        "pred_count": 241.72958374023438
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_61.mat",
+        "gt_count": 193.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_61.jpg",
+        "pred_count": 132.9808349609375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_11.mat",
+        "gt_count": 1068.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_11.jpg",
+        "pred_count": 1092.2537841796875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_82.mat",
+        "gt_count": 217.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_82.jpg",
+        "pred_count": 182.24798583984375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_119.mat",
+        "gt_count": 251.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_119.jpg",
+        "pred_count": 261.5989074707031
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_85.mat",
+        "gt_count": 97.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_85.jpg",
+        "pred_count": 87.28361511230469
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_115.mat",
+        "gt_count": 1195.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_115.jpg",
+        "pred_count": 1125.7569580078125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_83.mat",
+        "gt_count": 218.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_83.jpg",
+        "pred_count": 215.23191833496094
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_110.mat",
+        "gt_count": 1023.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_110.jpg",
+        "pred_count": 816.3379516601562
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_38.mat",
+        "gt_count": 717.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_38.jpg",
+        "pred_count": 691.2796020507812
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_139.mat",
+        "gt_count": 355.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_139.jpg",
+        "pred_count": 360.32183837890625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_147.mat",
+        "gt_count": 587.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_147.jpg",
+        "pred_count": 547.3388061523438
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_29.mat",
+        "gt_count": 309.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_29.jpg",
+        "pred_count": 286.7614440917969
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_31.mat",
+        "gt_count": 250.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_31.jpg",
+        "pred_count": 232.52622985839844
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_44.mat",
+        "gt_count": 366.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_44.jpg",
+        "pred_count": 396.1277770996094
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_175.mat",
+        "gt_count": 442.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_175.jpg",
+        "pred_count": 631.2323608398438
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_133.mat",
+        "gt_count": 137.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_133.jpg",
+        "pred_count": 135.75772094726562
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_32.mat",
+        "gt_count": 961.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_32.jpg",
+        "pred_count": 1053.0137939453125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_28.mat",
+        "gt_count": 423.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_28.jpg",
+        "pred_count": 535.552001953125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_153.mat",
+        "gt_count": 397.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_153.jpg",
+        "pred_count": 357.35736083984375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_129.mat",
+        "gt_count": 298.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_129.jpg",
+        "pred_count": 204.20498657226562
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_57.mat",
+        "gt_count": 356.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_57.jpg",
+        "pred_count": 397.11810302734375
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_161.mat",
+        "gt_count": 266.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_161.jpg",
+        "pred_count": 182.23892211914062
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_162.mat",
+        "gt_count": 219.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_162.jpg",
+        "pred_count": 269.6821594238281
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_19.mat",
+        "gt_count": 230.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_19.jpg",
+        "pred_count": 213.95761108398438
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_126.mat",
+        "gt_count": 441.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_126.jpg",
+        "pred_count": 437.7550354003906
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_1.mat",
+        "gt_count": 172.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_1.jpg",
+        "pred_count": 352.10894775390625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_96.mat",
+        "gt_count": 246.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_96.jpg",
+        "pred_count": 238.85255432128906
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_97.mat",
+        "gt_count": 522.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_97.jpg",
+        "pred_count": 556.4533081054688
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_46.mat",
+        "gt_count": 382.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_46.jpg",
+        "pred_count": 410.8545227050781
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_91.mat",
+        "gt_count": 101.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_91.jpg",
+        "pred_count": 110.07476043701172
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_149.mat",
+        "gt_count": 230.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_149.jpg",
+        "pred_count": 174.28807067871094
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_48.mat",
+        "gt_count": 384.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_48.jpg",
+        "pred_count": 370.9517822265625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_178.mat",
+        "gt_count": 549.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_178.jpg",
+        "pred_count": 486.9212951660156
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_22.mat",
+        "gt_count": 212.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_22.jpg",
+        "pred_count": 246.0808563232422
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_18.mat",
+        "gt_count": 227.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_18.jpg",
+        "pred_count": 184.66787719726562
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_21.mat",
+        "gt_count": 717.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_21.jpg",
+        "pred_count": 625.8651733398438
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_156.mat",
+        "gt_count": 199.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_156.jpg",
+        "pred_count": 178.51922607421875
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_165.mat",
+        "gt_count": 1581.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_165.jpg",
+        "pred_count": 1116.0196533203125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_23.mat",
+        "gt_count": 429.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_23.jpg",
+        "pred_count": 392.69195556640625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_34.mat",
+        "gt_count": 89.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_34.jpg",
+        "pred_count": 73.13380432128906
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_8.mat",
+        "gt_count": 1326.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_8.jpg",
+        "pred_count": 798.2113647460938
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_69.mat",
+        "gt_count": 166.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_69.jpg",
+        "pred_count": 138.94967651367188
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_174.mat",
+        "gt_count": 129.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_174.jpg",
+        "pred_count": 165.68283081054688
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_100.mat",
+        "gt_count": 391.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_100.jpg",
+        "pred_count": 388.4931335449219
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_125.mat",
+        "gt_count": 269.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_125.jpg",
+        "pred_count": 299.60089111328125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_24.mat",
+        "gt_count": 553.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_24.jpg",
+        "pred_count": 509.0498962402344
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_10.mat",
+        "gt_count": 502.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_10.jpg",
+        "pred_count": 448.5075378417969
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_182.mat",
+        "gt_count": 199.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_182.jpg",
+        "pred_count": 200.5418243408203
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_169.mat",
+        "gt_count": 218.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_169.jpg",
+        "pred_count": 266.460205078125
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_20.mat",
+        "gt_count": 460.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_20.jpg",
+        "pred_count": 469.9068603515625
+    },
+    {
+        "den_path": "/root/dataset/shanghai/part_A_final/test_data/ground_truth/GT_IMG_142.mat",
+        "gt_count": 214.0,
+        "path": "/root/dataset/shanghai/part_A_final/test_data/images/IMG_142.jpg",
+        "pred_count": 192.7101593017578
+    }
+]
