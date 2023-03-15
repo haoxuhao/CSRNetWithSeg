@@ -42,7 +42,7 @@ def main():
     best_prec1 = 1e6
     
     args = parser.parse_args()
-    args.lambd = 1.0 # balance segmentation loss and regression loss
+    args.lambd = 1.0 # balance the segmentation loss and regression loss
     args.lr = 1e-5
     args.batch_size    = 1
     args.momentum      = 0.95
@@ -104,6 +104,7 @@ def main():
                   .format(args.pre, checkpoint['epoch'],mae=best_prec1))
         else:
             print("=> no checkpoint found at '{}'".format(args.pre))
+
     for epoch in range(args.start_epoch, args.epochs):
         adjust_learning_rate(optimizer, epoch)
         train(train_list, model, regloss, segloss, optimizer, epoch)
@@ -111,8 +112,7 @@ def main():
         is_best = prec1 < best_prec1
         best_prec1 = min(prec1, best_prec1)
 
-        print(' * best MAE {mae:.3f} '
-              .format(mae=best_prec1))
+        print(' * best MAE {mae:.3f} '.format(mae=best_prec1))
 
         val_log_file.write("epoch:%d\tmae:%.3f\tbest_mae:%.3f\n"%(epoch+1, prec1,best_prec1))
         val_log_file.flush()
@@ -242,10 +242,9 @@ def validate(val_list, model):
     print("* hit rate: %.4f"%(hit_rate_avg))
 
     mae = mae/len(test_loader)    
-    print(' * MAE {mae:.3f} '
-              .format(mae=mae))
+    print(' * MAE {mae:.3f} '.format(mae=mae))
 
-    return mae    
+    return mae
         
 def adjust_learning_rate(optimizer, epoch):
     """Sets the learning rate to the initial LR decayed by 10 every 30 epochs"""

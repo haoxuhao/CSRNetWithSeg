@@ -1,1 +1,1 @@
-# CSRNet with segmentation guided
+# Crowd Counting with Segmentation Map Guidance
